@@ -11,7 +11,8 @@ Year 1 Network and Cybersecurity Student in UTM
 * 🧠  I'm currently learning new programming and computer skills.
 * 👥  I'm looking to collaborate on open-source security tools, CTF teams, or automation scripts.
 * 💬  Ask me about I enjoy deconstructing malware samples just to see how they tick.
-* Check out my LinkedIn profile link [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lai-yan-cheng-28421b21a)for more information about me!!
+* Check out my LinkedIn for more information about me!!  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lai-yan-cheng-28421b21a)
+  
 
 
 <p align="left">
